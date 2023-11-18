@@ -1,0 +1,69 @@
+body{
+	background-color: red;
+}
+
+	.login_div1 , .login_div2
+	{
+		background: lightblue;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+	}
+
+
+#player_1_name , #player_2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+	color: white;
+}
+#word
+{
+	width: 60%;
+}
+#number_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: lightblue;
+border-radius: 10px;
+border-top: 10px solid red;
+padding: 10px;
+float: none;
+text-align: left;
+}
+#login{
+	color:red;
+}
+#title{
+	color: blue;
+}
+#number_2{
+	color: white;
+}
+#number_1{
+	color: pink;
+}
+#player_question{
+	color: green;
+}
+#player_answer{
+	color: yellow;
+}
+#send_word{
+	color: red;
+}
+#player_1_score{
+	color: white;
+	font-weight: bold;
+	font-size:25px ;
+	margin-left:10px;
+}
+#player_2_score{
+	color: black;
+	font-weight: bold;
+	font-size:25px ;
+	margin-left: 10px;
+}
